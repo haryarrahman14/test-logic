@@ -10,7 +10,7 @@ This project contains solutions for three different problems, each implemented i
 npm install -g ts-node
 ```
 
-2. Navigate to the appropriate folder and run the TypeScript file using ts-node:
+2. Run the TypeScript file using ts-node:
 
 ```
 ts-node [folder]/[file].ts
